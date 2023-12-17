@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @y2k-gobbledigook
 - 👀 I’m interested in oceanography and geosciences in general. 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on whatever is connected to my study field!
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on whatever is  remotely connected to my study field!
 - 📫 You can reach me at y2k_gobbledigook@protonmail.com
 
 <!---
